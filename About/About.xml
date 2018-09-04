@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Where's the gravel?</name>
+	<author>Faeldray</author>
+	<url></url>
+	<targetVersion>0.18.0000</targetVersion>
+	<description>Simply replaces the default gravel texture with one that's easier to see. A tweak of Frndly Fire's "Where is poor soil?" mod, which was in turn inspired by AlcoholV's "Where is rich soil?" mod. Frndly Fire's mod was great, the texture was just low-res and weirdly coloured so this uses a high-res texture of actual gravel. Do not install both Frndly Fire's mod and this one, only one is required.</description>
+</ModMetaData>

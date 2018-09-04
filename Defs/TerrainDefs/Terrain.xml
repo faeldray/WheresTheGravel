@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TerrainDef>
+		<defName>Gravel</defName>
+		<label>gravel</label>
+		<texturePath>SoilGravel</texturePath>
+		<edgeType>FadeRough</edgeType>
+		<renderPrecedence>320</renderPrecedence>
+		<pathCost>2</pathCost>
+		<statBases>
+			<Beauty>-1</Beauty>
+			<Cleanliness>-1</Cleanliness>
+		</statBases>
+		<affordances>
+			<li>Light</li>
+			<li>Heavy</li>
+			<li>GrowSoil</li>
+			<li>Diggable</li>
+		</affordances>
+		<terrainFilthDef>FilthDirt</terrainFilthDef>
+		<fertility>0.7</fertility>
+		<takeFootprints>True</takeFootprints>
+	</TerrainDef>
+</Defs>
