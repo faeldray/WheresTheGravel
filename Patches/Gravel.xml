@@ -3,7 +3,7 @@
   <Operation Class="PatchOperationReplace">
     <xpath>*/TerrainDef[defName="Gravel"]/texturePath</xpath>
     <value>
-      <texturePath>SoilGravel</texturePath>
+      <texturePath>SoilGravelGrayscale</texturePath>
     </value>
   </Operation>
 </Patch>
