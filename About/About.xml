@@ -3,6 +3,8 @@
 	<name>Where's the gravel? - Grayscale Edition</name>
 	<author>Faeldray</author>
 	<url></url>
-  <targetVersion>1.0.2059</targetVersion>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
 	<description>(This is the gray version of the original texture.) Simply replaces the default gravel texture with one that's easier to see. Why would you want to know where gravel is? It's only 70% fertile (compared to regular soil's 100% fertility). Any crops planted on it will grow slower so you'll want to avoid it.</description>
 </ModMetaData>
